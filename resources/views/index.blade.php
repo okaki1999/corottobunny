@@ -179,7 +179,7 @@
         <img class="rounded mx-auto" src="/images/map.jpg" alt="">
       </div>
       <div class="text-left lg:ml-8 px-8">
-        <p class="font-bold text-3xl pb-5">ねこカフェららべる</p>
+        <p class="font-bold text-3xl pb-5">corottobuny</p>
         <dl>
           <dt class="text-xl font-medium">営業時間</dt>
           <dd class="pl-12 text-lg"><span class="mr-6">平日</span>11:00〜20:00<span class="ml-6">（L.O. 19:15）</span></dd>
